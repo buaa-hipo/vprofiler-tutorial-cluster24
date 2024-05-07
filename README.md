@@ -1,4 +1,4 @@
-# Identifying So!ware Ine"iciency with Fine-grained Value Profilers
+# Identifying So!ware Inefficiency with Fine-grained Value Profilers
 
 Production software is becoming increasingly complex due to its deep software abstractions as well as the
 sophisticated control and data !ows. Such software complexity usually leads to unexpected ine"ciencies that
