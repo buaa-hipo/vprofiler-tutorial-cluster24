@@ -1,4 +1,22 @@
-# Identifying Software Inefficiency with Fine-grained Value Profilers
+<font color=Blue>
+When: TBD
+</font>
+
+<font color=Blue>
+Where: TBD
+</font>
+
+Slides will be open soon.
+
+# Audience
+
+The target audience of the tutorial can be identified as two categories: 1) application developers,
+people who are interested in optimizing the performance of their applications by leveraging the
+strength of performance analysis tools, and 2) tool developers, people who are interested in building
+customized value profilers to pinpoint unrevealed software inefficiencies for guiding performance
+optimization.
+
+# Overview
 
 Production software is becoming increasingly complex due to its deep software abstractions as well as the
 sophisticated control and dataflows. Such software complexity usually leads to unexpected inefficiencies that
@@ -23,3 +41,46 @@ fine-grained value profiler, we will provide hands-on exercises to acquaint the 
 profiler and show case the effectiveness of each profiler for guiding performance optimization. The framework
 and value profilers demonstrated in this tutorial have already been open-sourced for public access
 
+This tutorial is expected to provide the audiences with the background of performance analysis,
+illustrate the well known performance profilers and their limitations, and then present our fine-grained value profiling framework and tools. We hope after the tutorial the audiences can master
+the usage of fine-grained value profilers to pinpoint software inefficiency, and be able to write
+customized value profilers tailored to one’s need.
+
+# Hardware and Software Requirements
+
+- **Hardware:** There is no special hardware required by the tutorial. The only thing we expect the
+audiences is to bring his/her own laptops. The laptop should have decent computation, memory
+and storage capability to run the #ne-grained value pro#lers and hands-on exercises.
+- **Software:** We will provide USB drivers that contain all the software required by the tutorial.
+Speciffically, we will ask the audiences to install a virtual machine (e.g., virtualbox) if they have
+not. Then, a virtual machine image is provided, which has the value profiling framework and tools
+presented in the tutorial installed by default. The image also contains the necessary source files for
+the hands-on exercises. The audiences can load the image into their virtual machine, and start with
+the hands-on exercises right away.
+
+# Prerequisite Background
+
+The audience is expected to have a solid understanding of C/C++ programming languages, and a
+basic understanding of computer architecture. Not required, but the audiences with a preliminary
+experience of performance analysis tools are preferred.
+
+# Organizers
+
+- Hailong Yang, Beihang University
+- Xin You, Beihang University
+- Kelun Lei, Beihang University
+
+# Questions
+
+For questions about this tutorial, please contact Hailong Yang and Xin You.
+
+# Related Publications
+
+- Xin You, Hailong Yang, Zhongzhi Luan, Depei Qian, Xu Liu. ZeroSpy: exploring software inefficiency with redundant zeros[C] International Conference for High Performance Computing, Networking, Storage and Analysis (SC). IEEE, 2020: 1-14.
+- Xin You, Hailong Yang, Kelun Lei, Zhongzhi Luan, Depei Qian. VClinic: A Portable and Efficient Framework for Fine-Grained Value Profilers[C]. Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Volume 2. 2023: 892-904.
+- Xin You, Hailong Yang, Kelun Lei, Zhongzhi Luan, Depei Qian. TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling[C]. Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC). 2023: 1-13.
+
+
+# Program
+
+Coming soon.
