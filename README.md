@@ -1,10 +1,6 @@
 <font color=Blue>
 When: September 24th, 2024
-</font>
 
-
-
-<font color=Blue>
 Where: Kobe International Conference Center in Kobe, Japan.
 </font>
 
