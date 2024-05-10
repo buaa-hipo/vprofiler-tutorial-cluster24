@@ -51,7 +51,7 @@ customized value profilers tailored to one’s need.
 
 - **Hardware:** There is no special hardware required by the tutorial. The only thing we expect the
 audiences is to bring his/her own laptops. The laptop should have decent computation, memory
-and storage capability to run the #ne-grained value pro#lers and hands-on exercises.
+and storage capability to run the fine-grained value profilers and hands-on exercises.
 - **Software:** We will provide USB drivers that contain all the software required by the tutorial.
 Speciffically, we will ask the audiences to install a virtual machine (e.g., virtualbox) if they have
 not. Then, a virtual machine image is provided, which has the value profiling framework and tools
