@@ -1,10 +1,15 @@
 <font color=Blue>
-When: TBD
+When: September 24th, 2024
 </font>
 
+
+
 <font color=Blue>
-Where: TBD
+Where: Kobe International Conference Center in Kobe, Japan.
 </font>
+
+
+
 
 Slides will be open soon.
 
@@ -83,4 +88,9 @@ For questions about this tutorial, please contact Hailong Yang and Xin You.
 
 # Program
 
-Coming soon.
+Phase | Content
+-------- | -----
+1 | Background (45 min)
+2 | Introduction of VClinic with hand-on tutorial (50 min)
+3 | Introduction of Zerospy with hand-on tutorial (50 min)
+4 | Introduction of TrivialSpy with hand-on tutorial (50 min)
