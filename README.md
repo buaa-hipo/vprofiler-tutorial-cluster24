@@ -84,9 +84,10 @@ For questions about this tutorial, please contact Hailong Yang and Xin You.
 
 # Program
 
-Phase | Content
--------- | -----
-1 | Background (45 min)
-2 | Introduction of VClinic with hand-on tutorial (50 min)
-3 | Introduction of Zerospy with hand-on tutorial (50 min)
-4 | Introduction of TrivialSpy with hand-on tutorial (50 min)
+Phase | Content | Presenters | Schedule
+-------- | ----- | ----- | ----
+1 | Background (45 min) | Hailong Yang | 9:00-9:45
+2 | Introduction of High Performance Cluster at CNIC (15 min) | Mingning Nie, Shunde Li | 9:45-10:00
+3 | Introduction of VClinic with hand-on tutorial (45 min) | Xin You | 10:0-10:45 
+4 | Introduction of Zerospy with hand-on tutorial (45 min) | Kelun Lei | 10:45-11:30
+5 | Introduction of TrivialSpy with hand-on tutorial (45 min) | Zhibo Xuan | 11:30-12:15
