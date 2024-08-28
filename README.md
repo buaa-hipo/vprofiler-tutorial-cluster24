@@ -89,6 +89,6 @@ Phase | Content | Presenters | Schedule
 1 | Background  | Hailong Yang | 9:00-9:45
 2 | Introduction of High Performance Cluster at CNIC | Mingning Nie | 9:45-10:15
 3 | Introducton of profiler in High Performance Cluster at CNIC | Shunde Li | 10:15-10:45
-4 | Introduction of VClinic with hand-on tutorial | Xin You | 10:45-11:00 
-5 | Introduction of Zerospy with hand-on tutorial | Kelun Lei | 11:00-11:30
-6 | Introduction of TrivialSpy with hand-on tutorial | Zhibo Xuan | 11:30-12:15
+4 | Introduction of VClinic with hand-on tutorial | Xin You | 10:45-11:15 
+5 | Introduction of Zerospy with hand-on tutorial | Kelun Lei | 11:15-11:45
+6 | Introduction of TrivialSpy with hand-on tutorial | Zhibo Xuan | 11:45-12:15
