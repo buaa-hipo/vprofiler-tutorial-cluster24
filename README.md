@@ -23,7 +23,7 @@ illustrate the well known performance profilers and their limitations, and then 
 the usage of fine-grained value profilers to pinpoint software inefficiency, and be able to write
 customized value profilers tailored to one’s need.
 
-# Audience and Prerequisite Background
+# Audience and Prerequisites
 
 The target audience of the tutorial can be identified as two categories: 1) **application developers**,
 people who are interested in optimizing the performance of their applications by leveraging the
