@@ -23,6 +23,8 @@ illustrate the well known performance profilers and their limitations, and then 
 the usage of fine-grained value profilers to pinpoint software inefficiency, and be able to write
 customized value profilers tailored to one’s need.
 
+---
+
 # Audience and Prerequisites
 
 The target audience of the tutorial can be identified as two categories: 1) **application developers**,
@@ -35,6 +37,8 @@ The audience is expected to have a solid understanding of C/C++ programming lang
 basic understanding of computer architecture. Not required, but the audiences with a preliminary
 experience of performance analysis tools are preferred.
 
+---
+
 # Hardware and Software Requirements
 
 - **Hardware:** There is no special hardware required by the tutorial. The only thing we expect the
@@ -45,16 +49,20 @@ and storage capability to access the remote server to run the hands-on exercises
 the hands-on exercises from the shared file system to their own workspaces. After that, they can start with
 the hands-on exercises right away. Note that the audiences shall install their own favorite terminals in advance in order to access the remote server.
 
+---
+
 # Program
 
 Stage | Content | Presenters | Schedule
 -------- | ----- | ----- | ----
 1 | Introduction of Performance Analysis and Profiling Tools in HPC | Hailong Yang | 9:00-9:40
 2 | Introduction of High Performance Cluster at CNIC | Ningming Nie, Shunde Li | 9:40-9:50
-3 | Tutorial: A Portable and Efficient Framework for Fine-grained Value Profilers (VClinic) | Xin You | 9:50-10:35
+3 | Tutorial: A Portable and Efficient Framework for Fine-grained <br>Value Profilers (VClinic) | Xin You | 9:50-10:35
 4 | Break |  | 10:35-10:45 
-5 | Tutorial: Exploring Software Inefficiency with Redundant Zeros (ZeroSpy) | Kelun Lei | 10:45-11:30
-6 | Tutorial: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling (TrivialSpy) | Zhibo Xuan | 11:30-12:15
+5 | Tutorial: Exploring Software Inefficiency with Redundant Zeros <br>(ZeroSpy) | Kelun Lei | 10:45-11:30
+6 | Tutorial: Identifying Software Triviality via Fine-grained and <br>Dataflow-based Value Profiling (TrivialSpy) | Zhibo Xuan | 11:30-12:15
+
+---
 
 # Organizers
 
@@ -64,11 +72,15 @@ Stage | Content | Presenters | Schedule
 - Zhibo Xuan, Beihang University
 - Ningming Nie, Shunde Li, Computer Network Information Center, Chinese Academy of Science
 
+---
+
 # Related Publications
 
 - Xin You, Hailong Yang, Zhongzhi Luan, Depei Qian, Xu Liu. [ZeroSpy: Exploring Software Inefficiency with Redundant Zeros](https://ieeexplore.ieee.org/document/9355303). Proceedings of International Conference for High Performance Computing, Networking, Storage and Analysis (SC). 2020: 1-14.
 - Xin You, Hailong Yang, Kelun Lei, Zhongzhi Luan, Depei Qian. [VClinic: A Portable and Efficient Framework for Fine-Grained Value Profilers](https://dl.acm.org/doi/10.1145/3575693.3576934). Proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2023: 892-904.
 - Xin You, Hailong Yang, Kelun Lei, Zhongzhi Luan, Depei Qian. [TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling](https://dl.acm.org/doi/10.1145/3581784.3607052). Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC). 2023: 1-13.
+
+---
 
 # Questions
 
