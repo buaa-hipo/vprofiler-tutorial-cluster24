@@ -16,7 +16,7 @@ compiler optimization.
 In this tutorial, we will present a series of works on fine-grained value profilers that
 have been published on top-tier conferences such as SC and ASPLOS from our group. After the presentation of each
 fine-grained value profiler, we will provide hands-on exercises to acquaint the audience with the usage of each
-profiler and show case the effectiveness of each profiler for guiding performance optimization. The value profilers ([ZeroSpy]() and [TrivialSpy]()) and framework ([VClinic]()) demonstrated in this tutorial have already been open-sourced for public access.
+profiler and show case the effectiveness of each profiler for guiding performance optimization. The value profilers ([ZeroSpy](https://github.com/JerryYouxin/zerospy_for_SC20) and [TrivialSpy](https://github.com/tiny-111/TrivialSpy-artifact)) and framework ([VClinic](https://github.com/VClinic/VClinic)) demonstrated in this tutorial have already been open-sourced for public access.
 
 This tutorial is expected to provide the audiences with the background of performance analysis,
 illustrate the well known performance profilers and their limitations, and then present our fine-grained value profiling framework and tools. We hope after the tutorial the audiences can master
