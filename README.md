@@ -66,9 +66,9 @@ Stage | Content | Presenters | Schedule
 
 # Related Publications
 
-- Xin You, Hailong Yang, Zhongzhi Luan, Depei Qian, Xu Liu. [ZeroSpy: Exploring Software Inefficiency with Redundant Zeros](). Proceedings of International Conference for High Performance Computing, Networking, Storage and Analysis (SC). 2020: 1-14.
-- Xin You, Hailong Yang, Kelun Lei, Zhongzhi Luan, Depei Qian. [VClinic: A Portable and Efficient Framework for Fine-Grained Value Profilers](). Proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2023: 892-904.
-- Xin You, Hailong Yang, Kelun Lei, Zhongzhi Luan, Depei Qian. [TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling](). Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC). 2023: 1-13.
+- Xin You, Hailong Yang, Zhongzhi Luan, Depei Qian, Xu Liu. [ZeroSpy: Exploring Software Inefficiency with Redundant Zeros](https://ieeexplore.ieee.org/document/9355303). Proceedings of International Conference for High Performance Computing, Networking, Storage and Analysis (SC). 2020: 1-14.
+- Xin You, Hailong Yang, Kelun Lei, Zhongzhi Luan, Depei Qian. [VClinic: A Portable and Efficient Framework for Fine-Grained Value Profilers](https://dl.acm.org/doi/10.1145/3575693.3576934). Proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS). 2023: 892-904.
+- Xin You, Hailong Yang, Kelun Lei, Zhongzhi Luan, Depei Qian. [TrivialSpy: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling](https://dl.acm.org/doi/10.1145/3581784.3607052). Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC). 2023: 1-13.
 
 # Questions
 
