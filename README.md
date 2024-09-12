@@ -56,11 +56,11 @@ the hands-on exercises right away. Note that the audiences shall install their o
 Stage | Content | Presenters | Schedule
 -------- | ----- | ----- | ----
 1 | Introduction of Performance Analysis and Profiling Tools in HPC | Hailong Yang | 9:00-9:40
-2 | Introduction of High Performance Cluster at CNIC | Ningming Nie, Shunde Li | 9:40-9:50
+2 | Introduction of High Performance Cluster at CNIC | Ningming Nie,<br> Shunde Li | 9:40-9:50
 3 | Tutorial: A Portable and Efficient Framework for Fine-grained <br>Value Profilers (VClinic) | Xin You | 9:50-10:35
 4 | Break |  | 10:35-10:45 
-5 | Tutorial: Exploring Software Inefficiency with Redundant Zeros <br>(ZeroSpy) | Kelun Lei | 10:45-11:30
-6 | Tutorial: Identifying Software Triviality via Fine-grained and <br>Dataflow-based Value Profiling (TrivialSpy) | Zhibo Xuan | 11:30-12:15
+5 | Tutorial: Exploring Software Inefficiency with Redundant Zeros (ZeroSpy) | Kelun Lei | 10:45-11:30
+6 | Tutorial: Identifying Software Triviality via Fine-grained and Dataflow-based Value Profiling (TrivialSpy) | Zhibo Xuan | 11:30-12:15
 
 ---
 
