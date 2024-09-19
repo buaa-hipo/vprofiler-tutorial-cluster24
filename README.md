@@ -16,7 +16,7 @@ compiler optimization.
 In this tutorial, we will present a series of works on fine-grained value profilers that
 have been published on top-tier conferences such as SC and ASPLOS from our group. After the presentation of each
 fine-grained value profiler, we will provide hands-on exercises to acquaint the audience with the usage of each
-profiler and show case the effectiveness of each profiler for guiding performance optimization. The value profilers ([ZeroSpy](https://github.com/JerryYouxin/zerospy_for_SC20) and [TrivialSpy](https://github.com/tiny-111/TrivialSpy-artifact)) and framework ([VClinic](https://github.com/VClinic/VClinic)) demonstrated in this tutorial have already been open-sourced for public access.
+profiler and show case the effectiveness of each profiler for guiding performance optimization. The value profilers (ZeroSpy and TrivialSpy) and framework (VClinic) demonstrated in this tutorial have already been [open-sourced](https://github.com/VClinic/VClinic) for public access.
 
 This tutorial is expected to provide the audiences with the background of performance analysis,
 illustrate the well known performance profilers and their limitations, and then present our fine-grained value profiling framework and tools. We hope after the tutorial the audiences can master
@@ -57,10 +57,11 @@ Stage | Content | Presenters | Schedule
 -------- | ----- | ----- | ----
 1 | Introduction of Performance Analysis <br>and Profiling Tools in HPC | Hailong Yang | 9:00-9:40
 2 | Introduction of High Performance Cluster<br> at CNIC | Ningming Nie,<br> Shunde Li | 9:40-9:50
-3 | Tutorial: Exploring Software Inefficiency<br> with Redundant Zeros (ZeroSpy) | Kelun Lei | 9:50-10:30
+3 | Tutorial: A Portable and Efficient Framework<br> for Fine-grained Value Profilers (VClinic) Part 1 | Xin You | 9:50-10:30
 4 | Break |  | 10:30-10:45 
-5 | Tutorial: Identifying Software Triviality<br> via Fine-grained and Dataflow-based Value<br> Profiling (TrivialSpy) | Zhibo Xuan | 10:45-11:25
-6 | Tutorial: A Portable and Efficient Framework<br> for Fine-grained Value Profilers (VClinic) | Xin You | 11:25-12:15
+5 | Tutorial: A Portable and Efficient Framework<br> for Fine-grained Value Profilers (VClinic) Part 2 | Xin You | 10:45-10:55
+6 | Tutorial: Exploring Software Inefficiency<br> with Redundant Zeros (ZeroSpy) | Kelun Lei | 10:55-11:35
+7 | Tutorial: Identifying Software Triviality<br> via Fine-grained and Dataflow-based Value<br> Profiling (TrivialSpy) | Zhibo Xuan | 11:35-12:15
 
 ---
 
