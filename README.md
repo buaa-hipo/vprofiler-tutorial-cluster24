@@ -56,12 +56,12 @@ the hands-on exercises right away. Note that the audiences shall install their o
 Stage | Content | Presenters | Schedule
 -------- | ----- | ----- | ----
 1 | Introduction of Performance Analysis <br>and Profiling Tools in HPC | Hailong Yang | 9:00-9:40
-2 | Introduction of High Performance Cluster<br> at CNIC | Shunde Li | 9:40-9:50
-3 | Tutorial: A Portable and Efficient Framework<br> for Fine-grained Value Profilers (VClinic) Part 1 | Xin You | 9:50-10:30
+2 | Introduction of High Performance Cluster<br> at CNIC ([slide](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/Introduction%20of%20profiler%20in%20High%20Performance%20Cluster%20at%20CNIC.pdf))] | Shunde Li | 9:40-9:50
+3 | Tutorial: A Portable and Efficient Framework<br> for Fine-grained Value Profilers (VClinic) Part 1 ([slide](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/CLUSTER24-Tutorial-VClinic.pdf)) | Xin You | 9:50-10:30
 4 | Break |  | 10:30-10:45 
-5 | Tutorial: A Portable and Efficient Framework<br> for Fine-grained Value Profilers (VClinic) Part 2 | Xin You | 10:45-10:55
-6 | Tutorial: Exploring Software Inefficiency<br> with Redundant Zeros (ZeroSpy) | Kelun Lei | 10:55-11:35
-7 | Tutorial: Identifying Software Triviality<br> via Fine-grained and Dataflow-based Value<br> Profiling (TrivialSpy) | Zhibo Xuan | 11:35-12:15
+5 | Tutorial: A Portable and Efficient Framework<br> for Fine-grained Value Profilers (VClinic) Part 2 ([slide](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/CLUSTER24-Tutorial-VClinic.pdf)) | Xin You | 10:45-10:55
+6 | Tutorial: Exploring Software Inefficiency<br> with Redundant Zeros (ZeroSpy) ([slide](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/CLUSTER24-tutorial-zerospy.pdf)) | Kelun Lei | 10:55-11:35
+7 | Tutorial: Identifying Software Triviality<br> via Fine-grained and Dataflow-based Value<br> Profiling (TrivialSpy) ([slide](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/Cluster24-tutorial-trivialspy.pdf)) | Zhibo Xuan | 11:35-12:15
 
 ---
 
