@@ -71,7 +71,7 @@ Stage | Content | Presenters | Schedule
 - Xin You, Beihang University
 - Kelun Lei, Beihang University
 - Zhibo Xuan, Beihang University
-- Ningming Nie, Shunde Li, Computer Network Information Center, Chinese Academy of Science
+- Shunde Li, Computer Network Information Center, Chinese Academy of Science
 
 ---
 
