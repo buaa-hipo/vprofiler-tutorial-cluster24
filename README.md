@@ -56,7 +56,7 @@ the hands-on exercises right away. Note that the audiences shall install their o
 Stage | Content | Presenters | Schedule
 -------- | ----- | ----- | ----
 1 | Introduction of Performance Analysis <br>and Profiling Tools in HPC | Hailong Yang | 9:00-9:40
-2 | Introduction of High Performance Cluster<br> at CNIC ([slide](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/Introduction%20of%20profiler%20in%20High%20Performance%20Cluster%20at%20CNIC.pdf))] | Shunde Li | 9:40-9:50
+2 | Introduction of High Performance Cluster<br> at CNIC ([slide](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/Introduction%20of%20profiler%20in%20High%20Performance%20Cluster%20at%20CNIC.pdf)) | Shunde Li | 9:40-9:50
 3 | Tutorial: A Portable and Efficient Framework<br> for Fine-grained Value Profilers (VClinic) Part 1 ([slide](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/CLUSTER24-Tutorial-VClinic.pdf)) | Xin You | 9:50-10:30
 4 | Break |  | 10:30-10:45 
 5 | Tutorial: A Portable and Efficient Framework<br> for Fine-grained Value Profilers (VClinic) Part 2 ([slide](https://github.com/buaa-hipo/vprofiler-tutorial-cluster24/blob/main/CLUSTER24-Tutorial-VClinic.pdf)) | Xin You | 10:45-10:55
